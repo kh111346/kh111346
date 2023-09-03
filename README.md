@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khosraviparsa1
+- 👋 Hi, I’m khosraviparsa
 - 👀 I’m interested in ..3 phase inverter.
 - 🌱 I’m currently learning .arm..
 - 💞️ I’m looking to collaborate on ...
